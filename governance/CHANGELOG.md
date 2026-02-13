@@ -4,7 +4,7 @@ All notable changes to the **career-architecture** system are documented here.
 
 This changelog tracks **system-level changes**, not day-to-day job search activity.
 
-For weekly execution outcomes, see `logs/weekly/`.
+For weekly execution outcomes, see `career-ops-private/logs/weekly/`.
 For decision rationale, see `adr/`.
 
 ---

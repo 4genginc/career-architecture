@@ -2,20 +2,27 @@
 
 Use this scorecard to evaluate a role consistently and decide whether to **Apply**, **Outreach-first**, or **Skip**.
 
-Keep it fast: 10–15 minutes.
+**Timebox:** 10–15 minutes.
+
+**Where to store completed scorecards:** private repo or external tracker (Notion/Airtable/spreadsheet). Keep this public repo as templates only.
+
+**Privacy rule:** Do not include sensitive personal data (DOB/SSN/address/medical/immigration/financial details) or employer/customer confidential information.
 
 ---
 
 ## Role
 
-- **Company:**
-- **Role title:**
-- **Level:**
-- **Location / remote:**
-- **Comp range (if known):**
-- **Source link:**
-- **Date triaged:**
-- **Lane:** (Backend / Embedded / AI Platform / UIUX / Other)
+* **Company:**
+* **Role title:**
+* **Level:**
+* **Location / remote:**
+* **Employment type:** (FTE / contract / temp)
+* **Comp range (if known):**
+* **Source:** (LinkedIn / referral / recruiter / job board)
+* **Job link:**
+* **Date triaged:** YYYY-MM-DD
+* **Posting age (if known):** (New / <7d / 7–30d / 30d+)
+* **Lane:** Backend / Embedded / AI Platform / UI/UX / Other
 
 ---
 
@@ -23,13 +30,13 @@ Keep it fast: 10–15 minutes.
 
 Mark **Fail** if any non-negotiable constraint is violated.
 
-- Location/commute: Pass / Fail
-- Schedule/shift: Pass / Fail
-- Work authorization: Pass / Fail
-- Safety / physical requirements: Pass / Fail
-- Credential requirements: Pass / Fail
+* Location/commute: Pass / Fail
+* Schedule/shift: Pass / Fail
+* Work authorization: Pass / Fail
+* Safety / physical requirements: Pass / Fail
+* Credential requirements: Pass / Fail
 
-**If any Fail → decision is Skip** (unless there is a clear exception).
+**Rule:** If any **Fail → decision is Skip** (unless a specific exception is documented).
 
 ---
 
@@ -43,11 +50,11 @@ List top 5 must-haves from the JD:
 4.
 5.
 
-Coverage score:
+Coverage score guidance:
 
-- 5 = strong match
-- 3–4 = workable
-- 0–2 = weak
+* **5** = strong match on most must-haves
+* **3–4** = workable (gaps exist but defensible)
+* **0–2** = weak (likely low response)
 
 **Score:** __ / 5
 
@@ -55,41 +62,46 @@ Coverage score:
 
 ## 3) Signal strength (0–10)
 
-Score 0–2 each:
+Score **0–2** each:
 
-- Artifacts (relevant public or demo proof)
-- Story (clear narrative for the lane)
-- Keywords (lane resume matches JD language)
-- Recency (recent relevant work)
-- Credibility (level/title alignment)
+* **Artifacts:** relevant public proof (repo/demo/write-up)
+* **Story:** clear lane narrative for this role
+* **Keywords:** lane resume matches JD language
+* **Recency:** recent, relevant work
+* **Credibility:** level/title alignment (scope and seniority)
 
 **Score:** __ / 10
+
+Notes (optional):
+
+* Strongest artifact for this role:
+* One-sentence narrative:
 
 ---
 
 ## 4) Winnability (0–6)
 
-Score 0–2 each:
+Score **0–2** each:
 
-- Network angle (warm path exists)
-- Timing (role is fresh / active)
-- Competition (not an obvious “mass applicant” trap)
+* **Network angle:** warm path exists (referral or internal contact)
+* **Timing:** role looks active (fresh posting, recent activity)
+* **Competition risk:** not an obvious mass-applicant trap
 
 **Score:** __ / 6
 
 ---
 
-## 5) Risk notes
+## 5) Risks and mitigations
 
 List 1–3 risks:
 
--
--
--
+*
+*
+*
 
 Mitigations:
 
--
+*
 
 ---
 
@@ -97,32 +109,35 @@ Mitigations:
 
 Choose one:
 
-- **Apply** (High / Medium / Low)
-- **Outreach-first**
-- **Skip**
+* **Apply** (High / Medium / Low)
+* **Outreach-first**
+* **Skip**
+
+Suggested rule-of-thumb:
+
+* **Apply (High):** constraints pass; coverage ≥ 4; signal ≥ 7
+* **Outreach-first:** constraints pass; role is good but needs a warm path or clarity
+* **Skip:** any constraint fail, or coverage ≤ 2 and no strong network angle
 
 **Reason (2–4 bullets):**
 
--
--
--
+*
+*
+*
 
 ---
 
 ## 7) Next actions
 
-- Resume variant to use: `RESUME_<LANE>.md`
-- Tailoring notes:
-  -
-- Outreach targets (names/roles):
-  -
-- Follow-up date:
+* **Resume variant to use:** `RESUME_<LANE>.md`
+* ## **Tailoring notes (tight scope):**
+* ## **Outreach targets (roles, not names if public):**
+* **Follow-up date:** YYYY-MM-DD
 
 ---
 
 ## Links
 
-- `playbooks/ROLE_TRIAGE.md`
-- `playbooks/EXECUTION_LOOP.md`
-- `templates/OUTREACH_EMAIL_TEMPLATES.md`
-
+* `playbooks/ROLE_TRIAGE.md`
+* `playbooks/EXECUTION_LOOP.md`
+* `templates/OUTREACH_EMAIL_TEMPLATES.md`

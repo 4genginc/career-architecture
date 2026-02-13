@@ -1,7 +1,7 @@
 # EXP-003 — LinkedIn Headline Tests
 
 **Status:** Draft (ready to run)  
-**Owner:** Rongjun Geng  
+**Owner:** 4G-ENG Careers  
 **Last updated:** 2026-02-13  
 **Goal type:** Discovery signal → inbound / interview pipeline
 
@@ -113,7 +113,7 @@ Pick the headline that improves **primary metrics** without reducing qualified i
 ### Step 4 — Promote result
 If accepted, update:
 - `resume/linkedin/headline_about.md` (source-of-truth text)
-- log decision in `career-architecture/logs/decisions/YYYY-MM.md`
+- log decision in `career-ops-private/logs/decisions/YYYY-MM.md`
 
 ---
 

@@ -190,7 +190,7 @@ Within 24 hours:
 
 - write 5 bullets: what was asked, what went well, what to improve
 - update the story bank if new patterns appear
-- log outcome in `logs/weekly/YYYY-W##.md`
+- log outcome in `career-ops-private/logs/weekly/YYYY-W##.md`
 
 ---
 

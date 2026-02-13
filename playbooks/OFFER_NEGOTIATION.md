@@ -144,7 +144,7 @@ If not:
 - either accept anyway (if still above walk-away)
 - or decline with respect
 
-Record outcome and learnings in `logs/weekly/YYYY-W##.md`.
+Record outcome and learnings in `career-ops-private/logs/weekly/YYYY-W##.md`.
 
 ---
 

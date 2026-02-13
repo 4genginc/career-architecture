@@ -1,7 +1,7 @@
 # EXP-001: Resume A/B Tests
 
 - **Status:** Active
-- **Owner:** (Rongjun / Mingjun / Weijie)
+- **Owner:** 4G-ENG Careers
 - **Start date:** 2026-02-13
 - **Lane:** (Backend / Embedded / AI Platform / UIUX)
 
@@ -79,7 +79,7 @@ Track per variant:
 
 Record in weekly logs:
 
-- `logs/weekly/YYYY-W##.md`
+- `career-ops-private/logs/weekly/YYYY-W##.md`
 
 ---
 

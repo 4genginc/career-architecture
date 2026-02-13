@@ -123,8 +123,8 @@ Pick 2–3 blocks per message:
 
 Log outreach in one of:
 
-- `logs/conversations/informational_interviews.md` (running list)
-- `logs/weekly/YYYY-W##.md` (weekly rollup)
+- `career-ops-private/logs/conversations/informational_interviews.md` (running list)
+- `career-ops-private/logs/weekly/YYYY-W##.md` (weekly rollup)
 
 Minimum fields:
 
@@ -150,4 +150,4 @@ If your message needs a long explanation, it’s too long.
 - `playbooks/ROLE_TRIAGE.md`
 - `playbooks/EXECUTION_LOOP.md`
 - `templates/OUTREACH_EMAIL_TEMPLATES.md`
-- `logs/conversations/informational_interviews.md`
+- `career-ops-private/logs/conversations/informational_interviews.md`

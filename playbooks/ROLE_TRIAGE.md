@@ -113,7 +113,7 @@ Decision guidance:
 
 ## Step 6 — Record the triage result
 
-Log in weekly file (`logs/weekly/YYYY-W##.md`) as:
+Log in weekly file (`career-ops-private/logs/weekly/YYYY-W##.md`) as:
 
 - Company — Role — Lane — Decision — Priority
 - One-line reason

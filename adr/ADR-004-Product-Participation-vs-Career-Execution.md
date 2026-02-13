@@ -103,8 +103,8 @@ We need a clear boundary between:
 
 ### Logging rule
 
-- execution outcomes are recorded in `logs/weekly/YYYY-W##.md`
-- tool work is recorded in `logs/decisions/YYYY-MM.md` (or an ADR if it changes system behavior)
+- execution outcomes are recorded in `career-ops-private/logs/weekly/YYYY-W##.md`
+- tool work is recorded in `career-ops-private/logs/decisions/YYYY-MM.md` (or an ADR if it changes system behavior)
 
 ---
 

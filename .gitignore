@@ -1,8 +1,7 @@
-# private ops (keep in separate private repo)
+.env
+.env.*
 logs/
-
-# ignore all private workspace files...
-private/*
-# ...but keep this one tracked as a public placeholder
-!private/README.md
-
+career-ops-private/
+*.pdf
+*.docx
+.DS_Store
