@@ -1,4 +1,8 @@
-
 # private ops (keep in separate private repo)
 logs/
-private/
+
+# ignore all private workspace files...
+private/*
+# ...but keep this one tracked as a public placeholder
+!private/README.md
+
