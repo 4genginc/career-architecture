@@ -29,7 +29,7 @@ Neutral, professional templates for common outreach scenarios.
 > If that works, I can do <2–3 time options> (PT). If easier, I can also send questions by message.
 >
 > Best regards,
-> Rongjun
+> {{SENDER_NAME}}
 
 ---
 
@@ -43,7 +43,7 @@ Neutral, professional templates for common outreach scenarios.
 > I’m open to an initial call to confirm scope, team structure, and location/remote expectations. If helpful, please share a few time options and the job description.
 >
 > Best regards,
-> Rongjun
+> {{SENDER_NAME}}
 
 ---
 
@@ -59,7 +59,7 @@ Neutral, professional templates for common outreach scenarios.
 > Would you be open to a brief call this week? I’m available <2–3 time options> (PT).
 >
 > Best regards,
-> Rongjun
+> {{SENDER_NAME}}
 > <LinkedIn>
 > <Portfolio/GitHub>
 
@@ -79,7 +79,7 @@ Neutral, professional templates for common outreach scenarios.
 > If yes, I can send a 3–4 bullet summary you can forward, plus my resume and the job link.
 >
 > Thanks,
-> Rongjun
+> {{SENDER_NAME}}
 
 ---
 
@@ -93,7 +93,7 @@ Neutral, professional templates for common outreach scenarios.
 > If you’re not the right person, I’d appreciate a redirect.
 >
 > Best regards,
-> Rongjun
+> {{SENDER_NAME}}
 
 ---
 
@@ -111,12 +111,12 @@ Neutral, professional templates for common outreach scenarios.
 > If it makes sense, I’d be interested in the next step for <Role Title>. I’m happy to provide any additional material.
 >
 > Best regards,
-> Rongjun
+> {{SENDER_NAME}}
 
 ---
 
 ## 8) Short “Forwardable” Summary (for referrals)
-> Rongjun is a <lane/role> with background in <2–3 areas>. Recent work includes <proof 1>, <proof 2>. Strong fit for <Role Title> due to <reason 1> and <reason 2>. Links: <LinkedIn>, <Portfolio>.
+> {{SENDER_NAME}} is a <lane/role> with background in <2–3 areas>. Recent work includes <proof 1>, <proof 2>. Strong fit for <Role Title> due to <reason 1> and <reason 2>. Links: <LinkedIn>, <Portfolio>.
 
 ---
 

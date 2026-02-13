@@ -82,7 +82,7 @@ We need a scalable strategy that supports targeted resumes **without fragmentati
 - Linux Backend / Systems
 - Embedded Systems
 - AI Platform / Agentic Systems (only if supported by defensible artifacts)
-- UI/UX (Weijie)
+- UI/UX (Design lane)
 
 ### Lane resume design rules
 

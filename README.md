@@ -48,7 +48,7 @@ Use a 3‑layer model:
 
 1. **Person-level resume repos (truth)**
 
-   * Example: `resume-<person-1>/`, `resume-<person-2>/`, `resume-<person-3>/`
+   * Example: `resume-<person>/` (one repo per person)
    * Holds `RESUME_MASTER.md` + lane variants + verified facts
 
 2. **Shared workspace repo (assets + exports)**

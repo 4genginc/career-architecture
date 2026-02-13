@@ -7,7 +7,7 @@
 
 ## Context
 
-As 4G ENG manages career assets for multiple people (Rongjun, Mingjun, and later Weijie), resume content can drift when it is copied across:
+In a multi-person career system, resume content can drift when it is copied across:
 
 - multiple resume variants
 - shared “careers” workspaces
